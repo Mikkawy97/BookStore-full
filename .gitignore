@@ -1,11 +1,6 @@
-
-   # dependencies
-   node_modules/
-   build/
-   
-   # environment variables
-   .env
-
-   # misc
-   .DS_Store
-   *.log
+# Example .gitignore entries that should not affect frontend-pro
+node_modules/
+dist/
+build/
+*.log
+.env
